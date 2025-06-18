@@ -49,7 +49,4 @@ Bu proje, kullanıcıların günlük ve haftalık görevlerini kolayca ekleyip t
 Bu proje eğitim amaçlıdır. Katkıda bulunmak isterseniz, pull request gönderebilirsiniz.
 
 ---
-
-**Hazırlayan:**  
-Erengörkem Şahin  
-(Bölüm, Okul, Yıl) 
+ 
